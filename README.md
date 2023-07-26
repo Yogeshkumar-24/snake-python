@@ -4,7 +4,7 @@ This is a simple snake game created usign python.
 # Library  
 -> Pygame  
 -> Random
-# Fuctions 
+# Functions 
 The Direction enum defines four directions: RIGHT, LEFT, UP, and DOWN, to represent the snake's movement direction.
 
 The Point named tuple is used to represent a position on the game grid (x, y coordinates).
